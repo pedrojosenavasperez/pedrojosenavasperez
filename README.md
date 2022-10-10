@@ -25,6 +25,6 @@ I am in love with technology. I love to pose problems and find solutions to them
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Certifications
-![Elearn Security Mobile Application Pentetration Tester (eMAPT)](https://verified.elearnsecurity.com/certificates/12f5cc0b-c33c-4c39-ab97-904865454ffd)
-![Elearn Security Web Application Pentetration Tester (eWPT)](https://verified.elearnsecurity.com/certificates/13ddada7-9330-47d7-aece-49e050247b77)
-![Elearn Security Junior Pentetration Tester (eJPT)](https://verified.elearnsecurity.com/certificates/e35e31e7-43b2-45e9-876c-c60d29dcf533)
+* ![Elearn Security Mobile Application Pentetration Tester (eMAPT)](https://verified.elearnsecurity.com/certificates/12f5cc0b-c33c-4c39-ab97-904865454ffd)
+* ![Elearn Security Web Application Pentetration Tester (eWPT)](https://verified.elearnsecurity.com/certificates/13ddada7-9330-47d7-aece-49e050247b77)
+* ![Elearn Security Junior Pentetration Tester (eJPT)](https://verified.elearnsecurity.com/certificates/e35e31e7-43b2-45e9-876c-c60d29dcf533)
