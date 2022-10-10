@@ -16,7 +16,7 @@ I am in love with technology. I love to pose problems and find solutions to them
 - [ ] Get a better understand of Android Applications Security. 
 - [ ] Write at least 5 blog post based in Security on Tech on Medium.
 - [ ] Develop my first comercial application. 
-- [ ] Learn about brand and product management. 
+- [ ] Learn about branding and product management. 
 
 ## 💼 Coding Skills   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
