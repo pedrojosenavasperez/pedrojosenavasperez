@@ -1,7 +1,7 @@
 # Hi, I’m Pedro J. Navas Pérez
 
 # I'm a Computer Science Student and a pasionated on Cibersecurity
-I am in love with technology. I love to pose problems and find solutions to them, especially if they are problems related to security. I am currently finishing my degree in computer science at the university of Cadiz and I am working as a security auditor.
+I am in love with technology. I love to pose problems and find solutions to them, especially if they are problems related to security. I am currently finishing my degree in computer science at the university of Cadiz while I am also working as a security auditor.
 
 ## 📩 Connect
 
