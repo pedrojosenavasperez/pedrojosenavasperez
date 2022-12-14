@@ -14,9 +14,8 @@ I am in love with technology. I love to pose problems and find solutions to them
 
 ## 📋 Current Goals
 - [ ] Get a better understand of Android Applications Security. 
-- [ ] Write at least 5 blog post based in Security on Tech on Medium.
-- [ ] Develop my first comercial application. 
-- [ ] Learn about branding and product management. 
+- [x] Write at least 5 blog post based in Security on Tech on Medium.
+- [ ] Learn about Azure penetration testing. 
 
 ## 💼 Coding Skills   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
